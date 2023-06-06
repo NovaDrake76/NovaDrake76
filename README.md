@@ -99,13 +99,7 @@
  
 </p>
 
-<p>
-  &nbsp;<img
-    align="center"
-    src="https://github-readme-stats.vercel.app/api?username=novadrake76&show_icons=true&theme=tokyonight&locale=en"
-    alt="novadrake76"
-  />
-</p>
+
 
 <p>
   <img
