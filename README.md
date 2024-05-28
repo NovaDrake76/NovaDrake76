@@ -8,8 +8,6 @@ I'm Nathan, full-stack. I work with 4fun and serious projects.
 
 📫Email: [nathan.marques176@gmail.com](mailto:nathan.marques176@gmail.com)
 
-📃 LinkedIn: [nathan-marques](https://www.linkedin.com/in/nathan-marques/)
-
 🗨️Discord: [novadrake76](https://discordapp.com/users/830191630069137459)  
   
 <div align="start">
