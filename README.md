@@ -1,7 +1,7 @@
 ### 🎰 Greetings  
   
 
-I'm Nathan, full-stack. I work with 4fun and serious projects.  
+I'm Nathan, full-stack.
   
 
 🌎My site: [novadrake.com](https://novadrake.com)
