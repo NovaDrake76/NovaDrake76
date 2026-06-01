@@ -78,12 +78,7 @@ I'm Nathan, full-stack.
 
 <p>
   <img
-    align="center"
-    src="https://github-readme-stats.vercel.app/api/top-langs?username=novadrake76&show_icons=true&theme=tokyonight&locale=en&layout=compact"
-    alt="novadrake76"
-  />
-  <img
-    align="right"
+    align="left"
     src="https://static.wikia.nocookie.net/b__/images/2/2d/Bentype.gif/revision/latest/scale-to-width-down/270?cb=20220202005639&path-prefix=bloons"
     height="200px"
   />
