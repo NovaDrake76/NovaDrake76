@@ -6,7 +6,7 @@ I'm Nathan, full-stack.
 
 🌎My site: [novadrake.com](https://novadrake.com)
 
-📫Email: [nathan.marques176@gmail.com](mailto:nathan.marques176@gmail.com)
+📫Email: [novadrake76@gmail.com](mailto:novadrake76@gmail.com)
 
 🗨️Discord: [novadrake76](https://discordapp.com/users/830191630069137459)  
   
